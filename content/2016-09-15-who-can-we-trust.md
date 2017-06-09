@@ -41,12 +41,13 @@ become much more visible over recent years.
 Trouble is, most people don't seem to care very much about the risks until
 they are impacted directly. We're mostly happy to
 
-shovel our personal info and passwords into Google, Facebook, LinkedIn et al
-share our most private moments and conversations via phones and websites
-use online banks and retailers, and carry wireless electronic cards so we can
-be robbed-over-the-air without even the need to pick our pockets
-Travel far, at great speeds, in metal boxes that are entirely operated via
-software. I think the big metal boxes will be the tipping point.
+* shovel our personal info and passwords into Google, Facebook, LinkedIn et al
+* share our most private moments and conversations via phones and websites
+* use online banks and retailers, and carry wireless electronic cards so we can be robbed-over-the-air without even the need to pick our pockets
+* travel far, at great speeds, in metal boxes that are entirely operated via
+software. 
+
+I think the big metal boxes will be the tipping point.
 
 Now that we're connecting all the metal boxes to the network, people are
 finally going to have to wake up.
