@@ -3,9 +3,9 @@ title: People vs Processes and Tools
 author: devcurmudgeon
 date: 2017/07/10
 
-I was recently given a demo of some widely-specified software for handling
-_requirements management_. After a few minutes showing the menus and
-screens, the demo became a presentation of a slide deck _about_ the software.
+I recently attended a demo of a software tool for _requirements management_.
+After a few minutes showing the menus and screens, the demo became a
+presentation of a slide deck _about_ the software.
 
 It turned out that the engineer demonstrating the tool does not use it himself.
 His weapon of choice for requirements management is ** a spreadsheet! **
@@ -44,8 +44,8 @@ conclude that
 **...the right thing is to ignore the specified tool/process**. 
 
 If we awant people to actually follow our guidance, we need to remove all the
-blockers. So any tool/process we specify/recommend needs to satisfy
-all the following:
+blockers. So I suggest that any tool/process we specify/recommend needs to
+satisfy all the following:
 
 * easily discoverable; it is obvious how and where to find it
 * easy to understand and well documented; fast learners can figure most of it out
