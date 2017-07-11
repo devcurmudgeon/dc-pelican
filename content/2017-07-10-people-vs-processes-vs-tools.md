@@ -51,7 +51,7 @@ satisfy all the following:
 * easy to understand and well documented; fast learners can figure most of it out
 for themselves
 * accessible with minimum friction e.g. no waiting hours/days/weeks for a login
-* work as described, and are generally applicable, efficient and fit for purpose
+* works as described, and is generally applicable, efficient and fit for purpose
 
 Maybe we should stick to pushing only 
 **the tools and processes we actually use ourselves.**
