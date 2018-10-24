@@ -43,7 +43,7 @@ conclude that
 
 **...the right thing is to ignore the specified tool/process**. 
 
-If we awant people to actually follow our guidance, we need to remove all the
+If we want people to actually follow our guidance, we need to remove all the
 blockers. So I suggest that any tool/process we specify/recommend needs to
 satisfy all the following:
 
